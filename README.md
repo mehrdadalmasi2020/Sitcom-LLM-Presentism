@@ -1,4 +1,4 @@
-# 🎭 Sitcom Presentism — Jupyter Notebook Tutorial *(Anonymized for Review)*
+# 🎭 Sitcom Presentism — Jupyter Notebook Tutorial 
 
 🧠 *A lightweight, code-only release demonstrating how sitcom episode summaries are preprocessed, fine-tuned, and analyzed for stylistic modernization.*
 
