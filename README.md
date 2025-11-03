@@ -81,13 +81,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ---
 
-## 🧭 Citation (for DH Benelux 2026 Review)
-
-Anonymous Authors (2025). *Sitcom Presentism — Jupyter Notebook Tutorial (Anonymized for Review).*
-[https://anonymous.4open.science/r/sitcom-presentism-anon](https://anonymous.4open.science/r/sitcom-presentism-anon)
-
----
-
 ✅ **Summary**
 
 * Uses CC-licensed Wikipedia summaries
