@@ -1,0 +1,34 @@
+# Core environment
+python>=3.10
+jupyterlab
+notebook
+ipykernel
+
+# Data handling
+numpy
+pandas
+datasets
+scikit-learn
+
+# NLP + Transformers
+torch
+transformers>=4.40.0
+accelerate
+peft
+bitsandbytes
+sentence-transformers
+
+# Plotting and metrics
+matplotlib
+seaborn
+tqdm
+
+# Utilities
+regex
+jsonlines
+pyyaml
+
+# Optional (depending on your runs)
+evaluate
+safetensors
+huggingface-hub
