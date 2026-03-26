@@ -90,4 +90,4 @@ THE CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
 * Fully GDPR-compliant
 * Supports reproducible, transformative research
 
-📘 *Prepared for DH Benelux 2026 — Anonymous Submission Version*
+📘 *Prepared for DH Benelux 2026
