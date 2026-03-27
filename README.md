@@ -76,7 +76,7 @@ All modernized plots are machine-generated, transformative outputs created for r
 ## 🪪 License
 
 **MIT License**
-Copyright (c) 2025 Anonymous Authors
+Copyright (c) 2025
 Permission is hereby granted, free of charge, to any person obtaining a copy of this code and associated documentation files, to deal in the code without restriction, including without limitation the rights to use, copy, modify, merge, and distribute.
 THE CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
 
