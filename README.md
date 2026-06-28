@@ -2,6 +2,25 @@
 
 🧠 *A lightweight, code-only release demonstrating how sitcom episode summaries are preprocessed, fine-tuned, and analyzed for stylistic modernization.*
 
+## 📄 Paper / Dataset
+
+This repository accompanies the paper/project:
+
+**Sitcom Presentism: Stylistic Modernization of Sitcom Episode Summaries with LLMs**
+
+📦 Zenodo archive: https://zenodo.org/records/19250947
+
+If you use this work, please cite:
+
+```bibtex
+@misc{almasi2026sitcompresentism,
+  title={Sitcom Presentism: Stylistic Modernization of Sitcom Episode Summaries with LLMs},
+  author={Almasi, Mehrdad; Karatas, Tugce},
+  year={2026},
+  publisher={Zenodo},
+  doi={10.5281/zenodo.19250947},
+  url={https://zenodo.org/records/19250947}
+}
 ---
 
 ## 📂 Repository Contents
