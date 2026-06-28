@@ -21,7 +21,7 @@ If you use this work, please cite:
   doi={10.5281/zenodo.19250947},
   url={https://zenodo.org/records/19250947}
 }
-```
+```bibtex
 ---
 
 ## 📂 Repository Contents
