@@ -13,14 +13,8 @@ This repository accompanies the paper/project:
 If you use this work, please cite:
 
 ```bibtex
-@misc{almasi2026sitcompresentism,
-  title={Rewriting the Past for the Present: A Computational Study of Sitcom Presentism using Fine-Tuned Language Models},
-  author={Almasi, Mehrdad and Karatas, Tugce},
-  year={2026},
-  publisher={Zenodo},
-  doi={10.5281/zenodo.19250947},
-  url={https://doi.org/10.5281/zenodo.19250947}
-}
+@misc{almasi2026sitcompresentism, title={Rewriting the Past for the Present: A Computational Study of Sitcom Presentism using Fine-Tuned Language Models}, author={Almasi, Mehrdad and Karatas, Tugce}, year={2026}, publisher={Zenodo}, doi={10.5281/zenodo.19250947}, url={https://doi.org/10.5281/zenodo.19250947} }
+
 ```bibtex
 
 ---
