@@ -14,12 +14,12 @@ If you use this work, please cite:
 
 ```bibtex
 @misc{almasi2026sitcompresentism,
-  title={Sitcom Presentism: Stylistic Modernization of Sitcom Episode Summaries with LLMs},
-  author={Almasi, Mehrdad; Karatas, Tugce},
+  title={Rewriting the Past for the Present: A Computational Study of Sitcom Presentism using Fine-Tuned Language Models},
+  author={Almasi, Mehrdad and Karatas, Tugce},
   year={2026},
   publisher={Zenodo},
   doi={10.5281/zenodo.19250947},
-  url={https://zenodo.org/records/19250947}
+  url={https://doi.org/10.5281/zenodo.19250947}
 }
 ```bibtex
 ---
